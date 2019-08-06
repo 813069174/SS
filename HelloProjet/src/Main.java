@@ -13,5 +13,7 @@ public class Main {
         System.out.println("cc提交");
         System.out.println("CC提交");
         System.out.println("SS提交");
+        System.out.println("SS提交");
+        System.out.println("SS提交");
     }
 }
