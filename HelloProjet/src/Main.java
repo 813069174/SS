@@ -1,4 +1,4 @@
-import org.junit.Test;
+﻿import org.junit.Test;
 
 public class Main {
 
@@ -7,5 +7,6 @@ public class Main {
         System.out.println("HelloWorld!");
         System.out.println("提交新的修改");
         System.out.println("我提交新的修改");
+        System.out.println("李四提交新的修改");
     }
 }
