@@ -11,5 +11,6 @@ public class Main {
         System.out.println("AA李四提交新的修改");
         System.out.println("BB李四提交新的修改");
         System.out.println("cc提交");
+        System.out.println("CC提交");
     }
 }
