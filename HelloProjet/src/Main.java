@@ -9,5 +9,6 @@ public class Main {
         System.out.println("我提交新的修改");
         System.out.println("李四提交新的修改");
         System.out.println("AA李四提交新的修改");
+        System.out.println("BB李四提交新的修改");
     }
 }
